@@ -1,2 +1,2 @@
-# ssvishnu.github.io
+# ssvishnu
 DataScience
